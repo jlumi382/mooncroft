@@ -1,0 +1,10 @@
+#Tue Jan 30 16:22:36 MST 2024
+shadowDistance=64.0
+SHADOW_FILTER=false
+SSS=0
+shadowMapResolution=128
+SHADOW_COLOR=false
+AO=true
+MOTION_BLUR=true
+ADVANCED_MATERIALS=false
+SELF_SHADOW=false
