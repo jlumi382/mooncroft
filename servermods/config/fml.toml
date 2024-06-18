@@ -1,6 +1,0 @@
-versionCheck = true
-splashscreen = true
-defaultConfigPath = "defaultconfigs"
-disableOptimizedDFU = true
-maxThreads = -1
-
