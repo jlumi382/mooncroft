@@ -9,3 +9,4 @@ After the installation, run `"1.19.2-forge-43.4.0"` in your minecraft launcher t
 # Installation
 Go to the `mods` directory in the repository then copy and paste all the contents to `"C:\Users\lumi\AppData\Roaming\.tlauncher\legacy\Minecraft\game\home\1.19.2-forge-43.4.0\mods\"`.
 
+You can paste the contents of the `Optional (Client Side)` directory to enable some of the optional mods.
